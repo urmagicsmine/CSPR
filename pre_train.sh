@@ -1,0 +1,5 @@
+# train
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash tools/dist_train.sh configs/imagenet_pretrain/resnet18_3d_BN_b32x8_coslr_labelsmoothing_channelshuffle.py 4
+#bash tools/dist_train.sh configs/imagenet_pretrain/resnet18_3d_BN_b32x8_coslr_labelsmoothing_channelshuffle.py 8
+# test
+#bash tools/dist_test.sh configs/imagenet_pretrain/resnet18_3d_BN_b32x8_coslr_labelsmoothing_channelshuffle.py ./work_dirs/resnet18_3d_BN_b32x8_coslr_labelsmoothing_channelshuffle/epoch_100.pth 8
