@@ -1,3 +1,6 @@
+## Update:
+04/08/2022: We add some configs used in LIDC/LITS/DeepLesion/BTCV datasets in `configs` directory. Training and testing details can be found here.
+
 ## Introduction
 This is an implementation of our paper **Supervised 3D Pre-training on Large-scale 2D Natural Image Datasets for 3D Medical Image Analysis**.
 
