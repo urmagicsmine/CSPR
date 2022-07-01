@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_25d_BN_fcn.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_ACS_BN_fcn.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_ACS_BN_fcn_scratch.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_BN_fcn_Kinetics.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_BN_fcn_MedicalNet.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_I3D_BN_fcn.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_I3D_BN_fcn_scratch.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh unet_3d_BN_ModelGenesis.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_BN_fcn.py 4
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh res18_3d_BN_fcn_scratch.py 4

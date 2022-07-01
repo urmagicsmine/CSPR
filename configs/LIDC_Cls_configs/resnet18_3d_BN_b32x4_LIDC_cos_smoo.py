@@ -2,7 +2,7 @@ fp16 = dict(loss_scale=512.)
 # model settings
 model = dict(
     type='ImageClassifier',
-    pretrained='pretrained_model/res3d18_imagenet_BN_cos_smoo_73.74-967b5578.pth',
+    pretrained='pretrained_model/res3d18_imagenet_BN_73.07-5ff2ecb7.pth',
     backbone=dict(
         type='ResNet3D',
         depth=18,

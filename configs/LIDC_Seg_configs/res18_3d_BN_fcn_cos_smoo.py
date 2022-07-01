@@ -11,7 +11,7 @@ conv_cfg = dict(type = 'Conv3d')
 model = dict(
     type='EncoderDecoder',
     is_3d_pred=True,
-    pretrained='pretrained_model/res3d18_imagenet_BN_cos_smoo_73.74-967b5578.pth',
+    pretrained='pretrained_model/res3d18_imagenet_BN_73.07-5ff2ecb7.pth',
     backbone=dict(
         type='ResNet3DNoStemStride',
         depth=18,
