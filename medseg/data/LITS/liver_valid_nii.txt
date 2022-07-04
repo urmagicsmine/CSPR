@@ -1,0 +1,13 @@
+ct_data/volume-34.nii liver_mask_data/segmentation-34.nii
+ct_data/volume-0.nii liver_mask_data/segmentation-0.nii
+ct_data/volume-75.nii liver_mask_data/segmentation-75.nii
+ct_data/volume-58.nii liver_mask_data/segmentation-58.nii
+ct_data/volume-87.nii liver_mask_data/segmentation-87.nii
+ct_data/volume-85.nii liver_mask_data/segmentation-85.nii
+ct_data/volume-73.nii liver_mask_data/segmentation-73.nii
+ct_data/volume-29.nii liver_mask_data/segmentation-29.nii
+ct_data/volume-110.nii liver_mask_data/segmentation-110.nii
+ct_data/volume-17.nii liver_mask_data/segmentation-17.nii
+ct_data/volume-113.nii liver_mask_data/segmentation-113.nii
+ct_data/volume-72.nii liver_mask_data/segmentation-72.nii
+ct_data/volume-103.nii liver_mask_data/segmentation-103.nii
