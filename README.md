@@ -85,9 +85,9 @@ medseg/LiTS_train.sh
 ```
 
 ### Detection 
-Please refer to our another [repo](https://github.com/urmagicsmine/MP3D) to run experiments on the DeepLesion dataset. To train a mp3d63 model, run:
+Please refer to our another [repo](https://github.com/urmagicsmine/MP3D) to run experiments on the DeepLesion dataset. To train a P3D63 model, run:
 ```
-bash tools/dist_train.sh configs/deeplesion/faster_rcnn_p3d63_fpn_2x_deeplesion_fp16.py $NUM_GPUS
+bash tools/dist_train.sh configs/deeplesion/p3d.py 8
 ```
 
 ## Contact
