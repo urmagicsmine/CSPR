@@ -60,7 +60,7 @@ The pre-trained 3D-ResNet-18 model can be downloaded from [BaiduYun](https://pan
 
 <!--Make a folder named ```pretrained_model``` and put pre-trained models in it.-->
 
-We also provide [pretrained models](https://pan.baidu.com/s/1YYlKcL4wAwoIeIJKxPq1Dg)(verification code: 1ezg) of other compared methods for convenience. Note that the first convolution layer of some pretrained models are with input channels of 3(same as imagenet pretrained models), which is inconsistent with 1-channel CT slice input. To fully use the pretrained weights, we averaged the parameters of the first conv layer so that it can take 1-channel input data. These models are end with suffixes like ```_med1channel.pth```.
+We also provide pretrained models of other compared methods for convenience, which can be avaliable at [BaiduYun](https://pan.baidu.com/s/1YYlKcL4wAwoIeIJKxPq1Dg)(verification code: 1ezg) or [GoogleDrive](https://drive.google.com/drive/folders/1yiVxKtCOkNF9mPcRrYNguetu0YQLJ8lq?usp=sharing). Note that the first convolution layer of some pretrained models are with input channels of 3(same as imagenet pretrained models), which is inconsistent with 1-channel CT slice input. To fully use the pretrained weights, we averaged the parameters of the first conv layer so that it can take 1-channel input data. These models are end with suffixes like ```_med1channel.pth```.
 
 ## Transfer to other tasks
 
