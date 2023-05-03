@@ -56,7 +56,7 @@ bash pre_train.sh
 ## Pre-trained Model
 We provide models pre-trained on ImageNet dataset which can be used for different 3D medical image analysis tasks.
 
-The pre-trained 3D-ResNet-18 model can be downloaded from [BaiduYun](https://pan.baidu.com/s/1dUv-YCv_FL02ywOxk-blqw)(verification code: 865y). 
+The pre-trained 3D-ResNet-18 model can be downloaded from [BaiduYun](https://pan.baidu.com/s/1dUv-YCv_FL02ywOxk-blqw)(verification code: 865y) or [GoogleDrive](https://drive.google.com/file/d/1TlaGFA154RfunoLFzvP8SRjzVL8zGTOI/view?usp=share_link). 
 
 <!--Make a folder named ```pretrained_model``` and put pre-trained models in it.-->
 
