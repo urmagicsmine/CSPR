@@ -3,7 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/advancing-3d-medical-image-analysis-with/medical-object-detection-on-deeplesion)](https://paperswithcode.com/sota/medical-object-detection-on-deeplesion?p=advancing-3d-medical-image-analysis-with)
 
 ## Introduction
-This is an implementation of our paper **Advancing 3D Medical Image Analysis with Variable Dimension Transform based Supervised 3D Pre-training**.
+This is an implementation of our paper [**Advancing 3D Medical Image Analysis with Variable Dimension Transform based Supervised 3D Pre-training**](https://arxiv.org/pdf/2201.01426v1.pdf).
 
 Modified from [mmclassification](https://github.com/open-mmlab/mmclassification).
 
